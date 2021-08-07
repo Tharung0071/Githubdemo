@@ -1,0 +1,7 @@
+This is a day project of Git.
+this is a first modification.
+<<<<<<< HEAD
+tanrepo change
+=======
+Alicerepo change.
+>>>>>>> fddc13f (this is alicerepo)
